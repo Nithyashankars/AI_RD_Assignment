@@ -1,0 +1,14 @@
+AI R&D Assignment - Parameter Estimation Result
+==================================================
+
+theta (degrees) : 29.999973
+theta (radians) : 0.5235983032
+M               : 0.030000
+X               : 54.999998
+
+max algebraic residual : 1.761505e-05
+L1 score (assignment metric, 3000 curve samples) : 10.373972
+runtime : 0.1056 s
+
+Desmos-ready LaTeX:
+\left(t\cos\left(0.5235983032\right)-e^{0.030000\left|t\right|}\cdot\sin\left(0.3t\right)\sin\left(0.5235983032\right)+54.999998,42+t\sin\left(0.5235983032\right)+e^{0.030000\left|t\right|}\cdot\sin\left(0.3t\right)\cos\left(0.5235983032\right)\right)
