@@ -209,4 +209,4 @@ A few things I'm aware are simplifications, in the interest of being upfront abo
 - The McKinney, W. (2010). *Data Structures for Statistical Computing in Python*. Proceedings of the 9th Python in Science Conference. — used via `pandas` for reading `xy_data.csv`.
 - Desmos graphing calculator (https://www.desmos.com/calculator) — used to sanity-check the fitted LaTeX expression visually, and as the format reference given in the assignment brief.
 
-No code was copied from any external source; the derivation in Sections 3–7 is my own reasoning about the specific equations given in this assignment.
+
